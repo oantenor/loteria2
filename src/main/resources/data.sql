@@ -1,0 +1,1 @@
+INSERT INTO APOSTA(aposta, data_aposta, email) VALUES('[1,2,3,4,5,6]', '2020-01-01', 'marcosantenor86@gmail.com');
